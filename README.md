@@ -64,7 +64,6 @@ It is worth noting that the dataset is small, and while the model performed well
 
 * Student\_Prediction\_Project.ipynb – Colab notebook with the full code
 * student\_data.csv – Dataset used
-* collab notebook link .
 * README.md – This file
 * LICENSE – MIT License
 
